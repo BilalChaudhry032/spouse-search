@@ -188,3 +188,4 @@ Route::post('invite/', 'InviteController@saveInvite')->name('invite');
 Route::get('refer_registration', function(){
    return view('pages.user.refer_registration');
 });
+//bilal
