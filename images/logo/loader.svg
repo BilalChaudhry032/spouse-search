@@ -1,0 +1,87 @@
+<svg class="ldt-blank" width="418px"  height="100px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" style="background: none;"><style type="text/css">path,ellipse,circle,rect,polygon,polyline,line { stroke-width: 0; }
+@keyframes ld-breath {
+  0% {
+    -webkit-transform: scale(0.86);
+    transform: scale(0.86);
+  }
+  50% {
+    -webkit-transform: scale(1.06);
+    transform: scale(1.06);
+  }
+  100% {
+    -webkit-transform: scale(0.86);
+    transform: scale(0.86);
+  }
+}
+@-webkit-keyframes ld-breath {
+  0% {
+    -webkit-transform: scale(0.86);
+    transform: scale(0.86);
+  }
+  50% {
+    -webkit-transform: scale(1.06);
+    transform: scale(1.06);
+  }
+  100% {
+    -webkit-transform: scale(0.86);
+    transform: scale(0.86);
+  }
+}
+.ld.ld-breath {
+  -webkit-animation: ld-breath 1s infinite;
+  animation: ld-breath 1s infinite;
+}
+
+text { font-family: Helvetica Neue }</style><g transform="translate(72.8421875 66.5)" style="opacity: 1;">
+  <g style="animation-delay: 0s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 12px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">S</text>
+  </g>
+</g><g transform="translate(96.8421875 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.0769231s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 11.1094px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">p</text>
+  </g>
+</g><g transform="translate(119.0609375 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.153846s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 10.6484px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">o</text>
+  </g>
+</g><g transform="translate(140.3578125 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.230769s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 11.1094px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">u</text>
+  </g>
+</g><g transform="translate(162.5765625 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.307692s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 9.76563px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">s</text>
+  </g>
+</g><g transform="translate(182.1078125 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.384615s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 10.6484px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">e</text>
+  </g>
+</g><g transform="translate(203.4046875 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.461538s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 8.4px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue"> </text>
+  </g>
+</g><g transform="translate(220.2046875 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.538462s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 12px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">S</text>
+  </g>
+</g><g transform="translate(244.2046875 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.615385s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 10.6484px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">e</text>
+  </g>
+</g><g transform="translate(265.5015625 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.692308s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 11px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">a</text>
+  </g>
+</g><g transform="translate(287.5015625 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.769231s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 7.5px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">r</text>
+  </g>
+</g><g transform="translate(302.5015625 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.846154s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 10.2188px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">c</text>
+  </g>
+</g><g transform="translate(322.9390625 66.5)" style="opacity: 1;">
+  <g style="animation-delay: -0.923077s; animation-duration: 1s; font-size: 48px; animation-direction: normal; transform-origin: 11.1094px 0px 0px;" class="ld ld-breath">
+    <text fill="#f44646" style="font-family:Helvetica Neue">h</text>
+  </g>
+</g></svg>
